@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Tianj0o
-- 🌱 I’m currently learning threeJs React
 
 
 <!---
